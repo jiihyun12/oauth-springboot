@@ -82,7 +82,7 @@ spring:
             user-name-attribute: id
 
 jwt:
-  secret: "personalnalbuddybuddy123123lululala456456"
+  secret: "personalnalbuddybuddy123123lululalalululala456456"
 
 api:
   base-url: "https://apis.data.go.kr/B551011/KorPetTourService"

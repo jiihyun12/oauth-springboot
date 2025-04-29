@@ -28,7 +28,7 @@ public class MemberServiceImpl implements MemberService {
 
     @Override
     public Long getMemberIdByMemberEmail(String memberEmail) {
-        return 0L;
+        return memberDAO.findByEmail(memberEmail);
     }
 
     @Override
