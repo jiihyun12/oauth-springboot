@@ -91,5 +91,18 @@ api:
   area-based-List: "/areaBasedList"
   service-key: "O7M3ojfsc5EkSltlZ1WGlpY1EwcPC%2FtTrzFafZIU0%2F57p9osynNDFH0f55Sg4hiFwkkFvAowoYoDhcQuKUCMbQ%3D%3D"
 
+coolsms:
+  key: "NCSBI5FEENLNJGOU"
+  secret: "111QMDGMVHNZPBOMY07OBARZLBEWRUVQ"
 
 
+mail:
+  api:
+    key: "viuz moab wndf dghi"
+    auth-mail: "j22h.h0h@gmail.com"
+
+toss:
+  payments:
+    api:
+      key: "test_gsk_docs_OaPz8L5KdmQXkzRz3y47BMw6"
+      url: "https://api.tosspayments.com/v1/payments/confirm"
